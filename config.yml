@@ -105,21 +105,9 @@ links:
 socials:
   - social:
       icon: "fa-brands fa-facebook-f"
-      url: "https://www.facebook.com/BakerSiacone/"
-      title: "我的FB個人主頁"
-      alt: "我的FB個人主頁"
-      target: "_blank"
-  - social:
-      icon: "fa-brands fa-facebook-f"
       url: "https://www.facebook.com/misakasarina/"
       title: "我的FB粉專"
       alt: "我的FB粉專"
-      target: "_blank"
-  - social:
-      icon: "fa-brands fa-facebook-f"
-      url: "https://www.facebook.com/share/g/17WHMr54Qj/"
-      title: "我的FB社團"
-      alt: "我的FB社團"
       target: "_blank"
   - social:
       icon: "fa-brands fa-instagram"
@@ -132,12 +120,6 @@ socials:
       url: "https://bsky.app/profile/msarina.bluesky.siacone.art"
       title: "我的BLUESKY"
       alt: "我的BLUESKY"
-      target: "_blank"
-  - social:
-      icon: "fa-brands fa-youtube"
-      url: "https://www.youtube.com/@BakerSiacone"
-      title: "我的YouTube（BAKER）"
-      alt: "我的YouTube（BAKER）"
       target: "_blank"
   - social:
       icon: "fa-brands fa-youtube"
