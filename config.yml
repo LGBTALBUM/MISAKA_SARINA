@@ -51,6 +51,13 @@ tagline: >-
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
   - link:
+      icon: "fa-brands fa-globe"
+      text: "前往新版"
+      url: "https://msarina.moe/"
+      title: "前往新版"
+      alt: "前往新版"
+      target: "_blank"
+  - link:
       icon: "fa-brands fa-supportnow"
       text: "Support Me On 愛發電"
       url: "https://afdian.com/a/misakasarina"
